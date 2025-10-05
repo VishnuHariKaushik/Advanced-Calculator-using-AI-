@@ -5,7 +5,6 @@ Simple Flask web app (app.py) that evaluates advanced math expressions.
 ## Contents
 - app.py — Flask app
 - README.md — this file
-- (optional) requirements.txt
 
 ## Prerequisites
 - Python 3.8+
